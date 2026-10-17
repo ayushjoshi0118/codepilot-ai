@@ -91,9 +91,7 @@ pip install -r requirements.txt
    ```toml
    GEMINI_API_KEY = "your_actual_gemini_api_key"
    ```
-
-> 🔒 **Security Notice**: `.streamlit/secrets.toml` is included in `.gitignore` to prevent accidentally committing your secret keys to public repositories.
-
+   
 ### 5. Run the Application
 
 ```bash
