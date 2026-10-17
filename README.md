@@ -36,7 +36,6 @@
 AI_Code_Generator/
 ├── .streamlit/
 │   ├── secrets.toml.example  # Template for Gemini API key configuration
-│   └── secrets.toml          # (Local only, git-ignored) Your actual API key
 ├── app.py                    # Main Streamlit application
 ├── requirements.txt          # Python dependencies
 ├── .gitignore                # Git ignore rules (protects API keys & cache)
